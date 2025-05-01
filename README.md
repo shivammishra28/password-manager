@@ -19,7 +19,7 @@ A simple and secure Password Manager built with **Vite + React**, styled using *
 ## 📸 Screenshots
 
 <!-- You can add screenshots here -->
-<!-- ![Screenshot](./screenshot.png) -->
+![PassOP Screenshot](./public/screenshots.png)
 
 ---
 
